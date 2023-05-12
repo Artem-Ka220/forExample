@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\bin\Debug\net6.0\Example003_Sun.exe
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\bin\Debug\net6.0\Example003_Sun.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\bin\Debug\net6.0\Example003_Sun.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\bin\Debug\net6.0\Example003_Sun.dll
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\bin\Debug\net6.0\Example003_Sun.pdb
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.dll
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\refint\Example003_Sun.dll
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.pdb
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\Example003_Sun.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Examples\Example003_Sun\obj\Debug\net6.0\ref\Example003_Sun.dll
